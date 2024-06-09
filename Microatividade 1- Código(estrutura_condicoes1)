@@ -1,0 +1,11 @@
+#Microatividade1 - Utilização das estruturas de condição if e else em Python (Trocar a temperatura para 31)
+
+temperatura=29
+
+if(temperatura<30):
+    resultado=("A temperatura hoje está amena.")
+
+else:
+    resultado=("Hoje está fazendo calor.")
+
+print(resultado)
